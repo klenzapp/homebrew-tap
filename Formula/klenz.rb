@@ -10,9 +10,8 @@ class Klenz < Formula
   def caveats
     <<~EOS
       Get started:
-        klenz login    # setup your account, no password needed
-        klenz log "grilled chicken with rice"
-
+        klenz log "for lunch I had grilled chicken with rice"
+        
       No account? Get the app at https://klenz.app
     EOS
   end
